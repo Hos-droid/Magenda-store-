@@ -1,0 +1,8 @@
+{
+  "cfg": {"name": "Magenda store", "tag": "متجر Magenda، منتجات مختارة بعناية", "wa": "", "cur": "ج.م", "ig": "", "tt": "", "fb": ""},
+  "products": [
+    {"id": 1, "name": "سماعات لاسلكية", "price": 199, "old": 249, "cat": "إلكترونيات", "type": "physical", "stock": 12, "desc": "بطارية تدوم 30 ساعة وعزل ضوضاء.", "extra": "", "img": ""},
+    {"id": 2, "name": "كتاب إلكتروني: التسويق الرقمي", "price": 49, "old": 0, "cat": "كتب", "type": "digital", "stock": 0, "desc": "ملف PDF يصلك بعد تأكيد الطلب.", "extra": "", "img": ""},
+    {"id": 3, "name": "استشارة تصميم (ساعة)", "price": 120, "old": 0, "cat": "خدمات", "type": "service", "stock": 0, "desc": "جلسة فردية عبر الإنترنت.", "extra": "60 دقيقة", "img": ""}
+  ]
+}
