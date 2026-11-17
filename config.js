@@ -1,0 +1,1 @@
+window.MAGENDA_CONFIG={supabaseUrl:"https://vmmucxyaqduoldkyafli.supabase.co",supabaseKey:"sb_publishable_X9kFGV1-o7w9khbxMTVp6w_XBcSQEnq",whatsapp:"201113307331",storeName:"Magenda Store"};
