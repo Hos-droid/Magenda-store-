@@ -1,1 +1,1 @@
-window.MAGENDA_CONFIG={supabaseUrl:"https://vmmucxyaqduoldkyafli.supabase.co",supabaseKey:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZtbXVjeHlhqWR1b2xka3lhZmxpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ5NDY5NTgsImV4cCI6MjExMDUyMjk1OH0.bs1ke89exrCeWU8pElSCxtl69KqRtHdytErRM7H-rrQ",whatsapp:"201113307331",storeName:"Magenda Store"};
+window.MAGENDA_CONFIG={supabaseUrl:"https://vmmucxyaqduoldkyafli.supabase.co",supabaseKey:"sb_publishable_X9kFGV1-o7w9khbxMTVp6w_XBcSQEnq",whatsapp:"201113307331",storeName:"Magenda Store"};
